@@ -252,3 +252,100 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9687.432202 seconds.
+  path: Assets/Scripts/Wheel.fbx
+  artifactKey: Guid(6f6c92671a80b4c4da32480d56c08c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Wheel.fbx using Guid(6f6c92671a80b4c4da32480d56c08c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '183ce9e967f03898d275cfff06385a59') in 0.426386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 116.306042 seconds.
+  path: Assets/Scripts/Wheel.fbx
+  artifactKey: Guid(6f6c92671a80b4c4da32480d56c08c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Wheel.fbx using Guid(6f6c92671a80b4c4da32480d56c08c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152997103310485ce6593aeba90daef3') in 0.015346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.391528 seconds.
+  path: Assets/Scripts/UnwrapTexture.tif
+  artifactKey: Guid(e8c8e4ae50ad381428e0abcc7748cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UnwrapTexture.tif using Guid(e8c8e4ae50ad381428e0abcc7748cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85774a8bf62c294b713d4a1a87845593') in 0.032044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Scripts/Wheel.fbx
+  artifactKey: Guid(6f6c92671a80b4c4da32480d56c08c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Wheel.fbx using Guid(6f6c92671a80b4c4da32480d56c08c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802d69c9fe04ef2b5a6d88ca709a21d5') in 0.019396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 372.721101 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(bb42a154baab5fe41a74f4c18ad0b652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(bb42a154baab5fe41a74f4c18ad0b652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf87b31e598334f3fa489a46958608f') in 0.002436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.066792 seconds.
+  path: Assets/Materials/UnwrapTexture.mat
+  artifactKey: Guid(8621f4ff039d7a4408853aeaf1e140e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/UnwrapTexture.mat using Guid(8621f4ff039d7a4408853aeaf1e140e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f37af9f98d30cea343c8f0a3da5caa7') in 0.010661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.400103 seconds.
+  path: Assets/Materials/UnwrapTexture.tif
+  artifactKey: Guid(a815e346f76db9b44a3b1170f9de2193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/UnwrapTexture.tif using Guid(a815e346f76db9b44a3b1170f9de2193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1ddba227fa1df99c5e1b184425be74') in 0.010800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.028603 seconds.
+  path: Assets/Materials/Materials
+  artifactKey: Guid(30789588bfcb36345b64d3c3a54ff203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials using Guid(30789588bfcb36345b64d3c3a54ff203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aebbc6667ba8e1d4d19a2be917bb276') in 0.002250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.546465 seconds.
+  path: Assets/Materials/Materials/UnwrapTexture.mat
+  artifactKey: Guid(bbda05449c9f07f469e9a4fbc6861c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/UnwrapTexture.mat using Guid(bbda05449c9f07f469e9a4fbc6861c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40362e1f4615f5106e561c57b40896f2') in 0.009706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 120.725963 seconds.
+  path: Assets/Materials/Materials/UnwrapTexture - Copy.mat
+  artifactKey: Guid(bbda05449c9f07f469e9a4fbc6861c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/UnwrapTexture - Copy.mat using Guid(bbda05449c9f07f469e9a4fbc6861c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca1a947447e497028b4b386d36f15e0f') in 0.010100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.649766 seconds.
+  path: Assets/Materials/WheelTexture.mat
+  artifactKey: Guid(51ae401d11d80a14f8c031087ff83abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WheelTexture.mat using Guid(51ae401d11d80a14f8c031087ff83abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef1deda07956338fd446966a3a46da7') in 0.009373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.835960 seconds.
+  path: Assets/Materials/WheelTexture.mat
+  artifactKey: Guid(51ae401d11d80a14f8c031087ff83abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WheelTexture.mat using Guid(51ae401d11d80a14f8c031087ff83abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a096fc94fa1c6dd1db11bafbd943fb8e') in 0.008005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.803695 seconds.
+  path: Assets/Materials/Wheel
+  artifactKey: Guid(d5f739a4fee8b1841a7517cfb4a5c8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wheel using Guid(d5f739a4fee8b1841a7517cfb4a5c8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33a0b1a683698a98f55c3e7bfc945fb') in 0.002215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.668388 seconds.
+  path: Assets/Materials/New Folder
+  artifactKey: Guid(f71fc14f0bf97b940aaf2b27a0ce4257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Folder using Guid(f71fc14f0bf97b940aaf2b27a0ce4257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a9bc47a764fbf0d947f4f71e4c6f138') in 0.002387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.857509 seconds.
+  path: Assets/Materials/PanelColour.mat
+  artifactKey: Guid(ca2285414dd7c8b4e9b1c5cd7f26ad7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PanelColour.mat using Guid(ca2285414dd7c8b4e9b1c5cd7f26ad7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7abd26fcbcde74041047f0c6dd47ce') in 0.015188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.566949 seconds.
+  path: Assets/Materials/PanelColour.mat
+  artifactKey: Guid(ca2285414dd7c8b4e9b1c5cd7f26ad7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PanelColour.mat using Guid(ca2285414dd7c8b4e9b1c5cd7f26ad7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87474a2c905e19daa623cd29f0dcbeef') in 0.009933 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
